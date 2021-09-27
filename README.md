@@ -1,6 +1,10 @@
-# login
+# Modern Animated logIn & SignUp App
 
 We design two screens first one is the user login button and second is a signup button its transfers to the signup screen. This video shows you how easy it is to build all those using flutter.
+
+![Screen Shot 2021-09-28 at 3 34 57 AM](https://user-images.githubusercontent.com/1903981/134987914-4283ed57-a285-4664-9830-8dd111fa939a.png)
+
+
 For help getting started with Flutter, view our
 youtube page: 
 

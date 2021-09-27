@@ -1,6 +1,6 @@
 # login
 
-We design two screens first one is thhe user has two options if he or she has an account then press the login button and it just shifts him to the login screen or if he or she don't have an account then press signup button its transfers to the signup screen. This video shows you how easy it is to build all those using flutter.
+We design two screens first one is the user login button and second is a signup button its transfers to the signup screen. This video shows you how easy it is to build all those using flutter.
 For help getting started with Flutter, view our
 youtube page: 
 
